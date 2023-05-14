@@ -1,0 +1,24 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seriousCoolness/node-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seriousCoolness/node-files/issues"
+  },
+  "homepage": "https://github.com/seriousCoolness/node-files#readme",
+  "dependencies": {
+    "@types/node": "^20.1.4",
+    "axios": "^1.4.0",
+    "node": "^20.1.0"
+  }
+}
